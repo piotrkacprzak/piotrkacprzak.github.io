@@ -1,0 +1,14 @@
+---
+layout: default
+title: News
+---
+
+<div id="home">Hello and welcome to my official drumming website. My name is Piotr Kacprzak and I'm a drummer and teacher. At this website you will find everything about my own drumkit samples, product demos, videos, drum and loop programming to my thoughts on popular topics at the blog page. If you would like to contact me directly hit up my facebook page.
+
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

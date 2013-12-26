@@ -1,0 +1,8 @@
+---
+layout: post
+title:  new post
+date:   2013-12-28 20:11:45
+categories: jekyll update
+---
+
+Now I'm building my new web site. Almost ready :] 

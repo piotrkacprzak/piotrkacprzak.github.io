@@ -1,0 +1,8 @@
+---
+layout: post
+title:  nowy post
+date:   2013-12-28 16:11:45
+categories: jekyll update
+---
+
+Nowy post stworzony przez Pitera
