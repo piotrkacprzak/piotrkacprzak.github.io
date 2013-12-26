@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  bio
+title:  Biography
 date:   2013-12-28 18:11:45
 categories: jekyll update
 ---
