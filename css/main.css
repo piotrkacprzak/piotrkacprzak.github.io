@@ -5,11 +5,19 @@
 /*****************************************************************************/
 
 body {
-  padding-top: 50px;
+  padding-top: 60px;
+  padding-bottom: 20px;
 }
-.site {
-  padding: 40px 15px;
-  /*text-align: center;*/
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+}
+
+.jumbotron {
+  text-align: center;
+  /*border-bottom: 1px solid #e5e5e5;*/
 }
 
 .well {
