@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: default
 title:  Biography
-date:   2013-12-28 18:11:45
-categories: jekyll update
 ---
+
+## Biography
+
 Piotr Kacprzak was born 1986 in Tarnów, Poland. He started playing drums at an early age. 
 As soon as he picked up a pair of sticks and hit the drums built from cartons boxes, he 
 knew straight away he would never put those sticks back down. He began attended private drum 
@@ -24,9 +25,13 @@ drummers and participate workshops with drummers Aron Spears, Benny Greb, Harry 
 Atma Anur, Piotr Biskupski, Tomasz Łosowski. and take part in jazz workshops The 
 International Summer Jazz Academy. 
 
+### Associated acts
+
 Since then Piotr has been working on various original projects, touring the country with a lot of 
 different artists. Piotr has played Damian Kurasz, Janusz Muniak, Justlanded (New York), 
 Notorius Rat, Fat Beats, Funk Me, BB Band Bartosz Bocheński Band, Dollars Brothers.
+
+### Infuencers
 
 Piotr says his biggest influences drummer is Chris Coleman, Tommy Igoe, Benny Greb, Dave Weckl, 
 Tony Royster, Vinnie Colaiuta, Simon Philips. He is also a fan of rap music. Piotr also films 
