@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  video
-date:   2013-12-28 18:11:45
-categories: jekyll update
+layout: default
+title:  Video
 ---
+
+## Video
+
 <iframe width="560" height="315" src="//www.youtube.com/embed/-ubqKYX_A6s" frameborder="0" allowfullscreen></iframe>
 
  

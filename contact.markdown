@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: default
 title:  contact
-date:   2013-12-28 18:11:45
-categories: jekyll update
 ---
+
+## Contact
+
 Piotr Kacprzak
 
 kacprzakpiotrek@gmail.com

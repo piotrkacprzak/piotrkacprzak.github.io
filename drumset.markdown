@@ -1,10 +1,9 @@
 ---
-layout: post
+layout: default
 title:  Drum Set
-date:   2013-12-28 18:11:45
-categories: jekyll update
 ---
 
+## Drum Set
 
 Drum Set Yamaha Stage Custom Advantage Nouveau:
 
