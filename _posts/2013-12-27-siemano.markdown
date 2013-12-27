@@ -2,7 +2,7 @@
 layout: post
 title:  "Siemanko!"
 date:   2013-12-27 14:11:45
-categories: jekyll update
+categories: news
 ---
 
 Mój pierwszy post

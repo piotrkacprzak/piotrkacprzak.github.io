@@ -1,14 +1,14 @@
 ---
 layout: default
-title:  contact
+title:  Contact
 ---
 
 ## Contact
 
-Piotr Kacprzak
+### Piotr Kacprzak
 
-kacprzakpiotrek@gmail.com
+mail: **kacprzakpiotrek@gmail.com**
 
-telefon 512770799
+phone: **+48 512 770 799**
 
-skype piotr.kacprzak
+skype: **piotr.kacprzak**

@@ -5,6 +5,7 @@ title:  Biography
 
 ## Biography
 
+<img class="photo" src="https://lh5.googleusercontent.com/-XI0_J8qsD64/Urxi7KlY4tI/AAAAAAAAAUM/CrRx5SK7O98/s288/Piotr%2520strona%25201.jpg" height="288" width="179" align="right"/>
 Piotr Kacprzak was born 1986 in Tarnów, Poland. He started playing drums at an early age. 
 As soon as he picked up a pair of sticks and hit the drums built from cartons boxes, he 
 knew straight away he would never put those sticks back down. He began attended private drum 
