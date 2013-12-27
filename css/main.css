@@ -47,3 +47,7 @@ body {
 .photo {
     margin: 5px;
 }
+
+iframe {
+    margin: 10px;
+}
