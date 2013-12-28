@@ -23,6 +23,11 @@ body {
   }
 }
 
+/* iphone */
+@media (min-width : 320px) and (max-width : 480px) {
+    img { max-width: 100%; }
+}
+
 .footer {
   text-align: center;
   padding: 25px;
