@@ -7,21 +7,33 @@ title:  Video
 
 Feel free to watch me in action.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/-ubqKYX_A6s" frameborder="0" allowfullscreen></iframe>
- 
-<iframe width="560" height="315" src="//www.youtube.com/embed/eNHUnEzxhdk" frameborder="0" allowfullscreen></iframe>
+<div class="videowrapper">
+<iframe src="//www.youtube.com/embed/-ubqKYX_A6s" frameborder="0" allowfullscreen ></iframe>
+</div> 
+
+<div class="videowrapper">
+<iframe src="//www.youtube.com/embed/eNHUnEzxhdk" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ### Dollars Brothers
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/3Yhrj0-jxP8" frameborder="0" allowfullscreen></iframe>
+<div class="videowrapper">
+<iframe src="//www.youtube.com/embed/3Yhrj0-jxP8" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ### BB Band
- 
-<iframe width="560" height="315" src="//www.youtube.com/embed/4Dw9mwG4xis" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/yWCLABhaL0A" frameborder="0" allowfullscreen></iframe>
+<div class="videowrapper">
+<iframe src="//www.youtube.com/embed/4Dw9mwG4xis" frameborder="0" allowfullscreen></iframe>
+</div>
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/jqiZKo55bys" frameborder="0" allowfullscreen></iframe>
+<div class="videowrapper">
+<iframe src="//www.youtube.com/embed/yWCLABhaL0A" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="videowrapper">
+<iframe src="//www.youtube.com/embed/jqiZKo55bys" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ### Other
 
