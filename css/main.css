@@ -5,22 +5,19 @@
 /*****************************************************************************/
 
 body {
-  padding-top: 60px;
-  padding-bottom: 20px;
-
-  background-color: rgb(121, 35, 36); 
-
-  font-family: Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;
-  font-weight: 300;
-  color: rgb(255, 255, 255);
-  text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.9);
-  /*box-shadow: 0px 3px 30px rgba(0, 0, 0, 0.3) inset;*/  
+    padding-top: 60px;
+    padding-bottom: 20px;
+    background-color: rgb(121, 35, 36); 
+    font-family: Lato,'Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-weight: 300;
+    color: rgb(255, 255, 255);
+    text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.9);
 }
 
 @media (min-width: 768px) {
-  .container {
-    max-width: 730px;
-  }
+    .container {
+        max-width: 730px;
+    }
 }
 
 /* iphone */
@@ -29,20 +26,20 @@ body {
 }
 
 .footer {
-  text-align: center;
-  padding: 25px;
-  background-color: rgb(64, 15, 11);
-  box-shadow: 0px 3px 30px rgba(0, 0, 0, 0.3) inset;  
+    text-align: center;
+    padding: 25px;
+    background-color: rgb(64, 15, 11);
+    box-shadow: 0px 3px 30px rgba(0, 0, 0, 0.3) inset;  
 }
 
 .jumbotron {
-  text-align: center;
-  background-color: rgb(64, 15, 11);
-  border-bottom: 1px solid #959595;
+    text-align: center;
+    background-color: rgb(64, 15, 11);
+    border-bottom: 1px solid #959595;
 }
 
 .well {
-  background-image: none;
+    background-image: none;
 }
 
 .photo {
