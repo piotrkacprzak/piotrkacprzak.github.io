@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Siemanko!"
-date:   2013-12-27 14:11:45
-categories: news
----
-
-Mój pierwszy post
