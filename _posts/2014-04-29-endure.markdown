@@ -1,0 +1,11 @@
+---
+layout: post
+title:  '"Endure" Tommy Igoe drum cover video'
+date:   2014-04-29 16:11:45
+categories: news
+---
+Hello everbody. Check out my new drum cover on YouTube. 
+
+<div class="videowrapper">
+<iframe src="//www.youtube.com/embed/-ubqKYX_A6s" frameborder="0" allowfullscreen></iframe>
+</div>
