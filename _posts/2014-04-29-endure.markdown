@@ -7,5 +7,5 @@ categories: news
 Hello everbody. Check out my new drum cover on YouTube. 
 
 <div class="videowrapper">
-<iframe src="https://www.youtube.com/edit?o=U&video_id=YpnSd0R4z98" frameborder="0" allowfullscreen></iframe>
+<iframe src="//www.youtube.com/embed/-YpnSd0R4z98" frameborder="0" allowfullscreen></iframe>
 </div>
