@@ -1,9 +1,8 @@
 ﻿---
 layout: post
-title:  new cover Tommy Igoe Endure
+title:new drum cover Tommy Igoe Endure
 categories: news
 ---
-
 Hello everbody. Check out my new drum cover on YouTube. 
 
 <div class="videowrapper">
