@@ -1,6 +1,7 @@
 ﻿---
 layout: post
-title:  Ruby
+title:  '"Endure" Tommy Igoe drum cover video'
+date:   2014-04-29 16:11:45
 categories: news
 ---
 
