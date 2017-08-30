@@ -1,0 +1,10 @@
+﻿---
+layout: post
+title:  New post
+date:   2013-12-28 20:11:45
+categories: news
+---
+Hi all, I'm happy to announce that I'm a member of the band Ruby and the Revelators.  Please check web site.
+
+* [Facebook Ruby and the Revelators](https://www.facebook.com/rubyandtherevelators/)
+* [official web site](http://www.rubyandtherevelators.co.uk/)
