@@ -1,6 +1,7 @@
 ﻿---
 layout: post
 title:  Ruby and the Revelators
+date:   2017-07-15 16:11:45
 categories: news
 ---
 
