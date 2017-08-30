@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  Concert and DVD
+title:  Ruby
 categories: news
 ---
 
