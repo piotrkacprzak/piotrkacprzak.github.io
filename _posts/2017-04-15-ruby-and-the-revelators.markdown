@@ -11,4 +11,4 @@ Hi all, I'm happy to announce that I'm a member of the band Ruby and the Revelat
 
 
 * [Facebook Ruby and the Revelators](https://www.facebook.com/rubyandtherevelators/)
-* [official web site](http://www.rubyandtherevelators.co.uk/)
+* [official website](http://www.rubyandtherevelators.co.uk/)
