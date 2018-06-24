@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  V-Drums Heroes European competition
-date:   2017-07-18 16:11:45
+date:   2018-01-15 16:11:45
 categories: news
 ---
 V-Drums Heroes European competition
