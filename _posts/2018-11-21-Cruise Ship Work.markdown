@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Princess Cruise Ship Work
+title:  Cruise Ship Work
 date:   2018-11-21 16:11:45
 categories: news
 ---
