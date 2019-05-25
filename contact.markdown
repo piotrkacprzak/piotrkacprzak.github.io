@@ -9,6 +9,6 @@ title:  Contact
 
 mail: **kacprzakpiotrek@gmail.com**
 
-phone: **+48 512 770 799**
+phone: **+44 7731 580974**
 
 skype: **piotr.kacprzak**

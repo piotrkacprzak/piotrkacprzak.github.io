@@ -1,2 +1,8 @@
 title: Piotr Kacprzak
 highlighter: false
+
+defaults:
+  - scope:
+      path: "image"
+    values:
+      image: true
