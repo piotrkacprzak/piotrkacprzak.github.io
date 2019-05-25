@@ -5,7 +5,7 @@ title:  Gear
 
 ## Gear
 
-<img class="photo" style="float:right;" src="https://lh5.googleusercontent.com/-p3EMisYQwqA/Ur1zPYH65iI/AAAAAAAAAU0/t1u3rU2Vyxs/s400/zestaw.jpg" />
+<img class="photo" style="float:right;" src="image/zestaw.jpg" />
 #### Drum Set Yamaha Stage Custom Advantage Nouveau:
 
 * Kick 20 x 17
