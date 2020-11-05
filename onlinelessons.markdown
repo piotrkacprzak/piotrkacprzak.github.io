@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: Learn Drums Online
-permalink: /OnlineLessons/
+
 ---
 
 Hello I offer online drums lesson
