@@ -1,36 +1,29 @@
 ---
 layout: default
-title:  Gear
+title: Learn Drums Online
+
 ---
 
-## Gear
+Hello I offer online drums lesson
 
-<img class="photo" style="float:right;" src="image/zestaw.jpg" />
-#### Drum Set Yamaha Stage Custom Advantage Nouveau:
+All you need is good quality internet, a computer or tablet, a quiet lesson space, a musical instrument and a desire to learn to play drums.
 
-* Kick 20 x 17
-* Snare 14 x 5½"
-* Tom 10 x 8 
-* Tom 12 x 9
-* Floor Tom 14 x 14
+My lessons are perfect for the beginner, the advance, and everyone in-between. I offer drum lessons that will give you proper skills and technique while also having fun. We do this by learning and then applying drumming techniques to real music you enjoy playing.  Lessons are for children and adults, beginners can get started with no experience necessary.
 
-#### Sabian Cymbals:
+Please contact me to set up a time to discuss what drum lesson is best for you. The most popular and by far most effective drum lesson schedule is weekly one hour sessions. However half hour,45 mintes weekly lessons and single one hour lessons are also available upon request. Pricing, discounted rates for weekly students, attendance and cancellation policies and other drum lesson details are sent once contact has been initiated. 
 
-* 14" HHX Evolution Hats 
-* 20" HHX Evolution Ride 
-* 16" HHX Evolution Crash 
-* 18" HHX Evolution O-Zone Crash 
-* 14" Stax no name 
+Price:
 
-#### ProMark Sticks:
+1 hour lesson 30
 
-* ProMark 5A
+45 minutes 25
 
-#### Shure Microphones:
+30 minutes 20
 
-* Kick BETA 52
-* Snare SM-57
-* Tom 10 SM-57
-* Tom 12 SM-57
-* Floor Tom 14 SM-57
+Block Boooking 10% Discount 
 
+4 x 60 minutes 120			
+
+4 x 45 minutes 100
+
+4 x 30 minutes 80
