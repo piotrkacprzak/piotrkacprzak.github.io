@@ -4,6 +4,8 @@ title: Learn Drums Online
 
 ---
 
+## Learn Drums Online
+
 Hello I offer online drums lesson
 
 All you need is good quality internet, a computer or tablet, a quiet lesson space, a musical instrument and a desire to learn to play drums.
