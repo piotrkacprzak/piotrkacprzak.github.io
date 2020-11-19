@@ -3,7 +3,7 @@ layout: default
 title:  Gear
 ---
 
-## Gear
+## Acoustic Drums Set
 
 <img class="photo" style="float:right;" src="image/zestaw.jpg" />
 #### Drum Set Yamaha Stage Custom Advantage Nouveau:
@@ -22,15 +22,18 @@ title:  Gear
 * 18" HHX Evolution O-Zone Crash 
 * 14" Stax no name 
 
-#### ProMark Sticks:
-
-* Vater 5A
-
 ## Eletronic Drums Set
 
 #### Roland TD-25KV Electronic V-Drums Kit
 
 <img class="photo" style="float:right;" src="image/zestaw.jpg" />
+
+
+
+
+
+
+
 
 #### Shure Microphones:
 
@@ -40,3 +43,6 @@ title:  Gear
 * Tom 12 SM-57
 * Floor Tom 14 SM-57
 
+#### Sticks:
+
+* Vater 5A
