@@ -24,7 +24,13 @@ title:  Gear
 
 #### ProMark Sticks:
 
-* ProMark 5A
+* Vater 5A
+
+## Eletronic Drums Set
+
+#### Roland TD-25KV Electronic V-Drums Kit
+
+<img class="photo" style="float:right;" src="image/zestaw.jpg" />
 
 #### Shure Microphones:
 
