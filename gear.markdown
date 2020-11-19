@@ -35,7 +35,9 @@ title:  Gear
 
 
 
-#### Shure Microphones:
+## Microphones:
+
+#### Shure Microphone:
 
 * Kick BETA 52
 * Snare SM-57
@@ -43,6 +45,6 @@ title:  Gear
 * Tom 12 SM-57
 * Floor Tom 14 SM-57
 
-#### Sticks:
+## Sticks:
 
 * Vater 5A
