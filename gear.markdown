@@ -26,7 +26,7 @@ title:  Gear
 
 #### Roland TD-25KV Electronic V-Drums Kit
 
-<img class="photo" style="float:right;" src="image/Rolandtd25.jpg" />
+<img class="photo" style="float:right;" src="image/rolandtd25kv2.jpg" />
 
 
 
