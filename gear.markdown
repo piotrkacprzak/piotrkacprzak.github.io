@@ -35,7 +35,7 @@ title:  Gear
 
 
 
-## Microphones:
+## Microphones
 
 #### Shure Microphone:
 
