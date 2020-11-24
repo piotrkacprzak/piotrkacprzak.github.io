@@ -22,18 +22,28 @@ title:  Gear
 * 18" HHX Evolution O-Zone Crash 
 * 14" Stax no name 
 
+<br><br><br>
+
 ## Eletronic Drums Set
 
-#### Roland TD-25KV Electronic V-Drums Kit
+<img class="photo" style="float:right;" src="image/zestaw.jpg" />
+#### Roland TD-25KV:
 
-<img class="photo" style="float:right;" src="image/rolandtd25kv2.jpg" />
+* Drum Sound Module TD-25
 
+* Kick V-PAD KD-9
+* Snare V-PAD PDX-100
+* Tom V-PAD PD-85 x 2
+* Floor Tom V-PAD PDX-100
+* Drum Stan MDS-9SC
 
+#### Cymbals:
 
+* V-HI-HAT VH-11C  
+* V-Cymbal Crash CY-12C x 2  
+* V-Cymbal Ride CY-13R 
 
-
-
-
+<br><br><br>
 
 ## Microphones
 
