@@ -17,7 +17,7 @@ categories: jekyll update
 <iframe width="560" height="315" src="//www.youtube.com/embed/jqiZKo55bys" frameborder="0" allowfullscreen></iframe>
 
 
-[Funk Me](http://www.tvp.pl/rzeszow/kultura/stacja-rzeszow-glowny/wideo/1010/12673408)
+
 
 
 
