@@ -22,7 +22,7 @@ title:  Gear
 * 18" HHX Evolution O-Zone Crash 
 * 14" Stax no name 
 
-<br><br><br>
+<br><br>
 
 ## Eletronic Drums Set
 
@@ -43,7 +43,7 @@ title:  Gear
 * V-Cymbal Crash CY-12C x 2  
 * V-Cymbal Ride CY-13R 
 
-<br><br><br>
+<br><br>
 
 ## Microphones
 
@@ -55,6 +55,8 @@ title:  Gear
 * Tom 12 SM-57
 * Floor Tom 14 SM-57
 
-## Sticks:
+<br><br>
+
+## Sticks
 
 * Vater 5A
