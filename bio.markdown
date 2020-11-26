@@ -5,42 +5,18 @@ title:  Biography
 
 ## Biography
 
-<img class="photo" style="float:right;" src="image/piotr_1.jpg" /> Hi,
-my name is Piotr Kacprzak. I was born 1986 in Tarnów, Poland. I
-started playing drums at an early age. As soon as picked up a pair of
-sticks and hit the drums built from cartons boxes, I knew straight
-away that I would never put those sticks back down. I began attended
-private drum lessons and music theory at the age of 14, where I learnt
-how to read notes, work with a metronome as well as being introduced
-to music by drummers.
+<img class="photo" style="float:right;" src="image/piotr_1.jpg" /> My name is Piotr. I am a professional drummer, tutor, programmer, transcriber based in West Sussex UK. My passion for music began at a very young age. Whenever I heard music, live or on records, drums were always the instruments that stuck out to me. I would spend most of my time banging on everything in my house. When I got my first drum set I played and practiced as much as I could. As soon as I got home from school, I didn’t even do my homework. I just go on the drums and played until I can.
 
-At the age of 16 I started studying at *Krakow School of Jazz and
-Contemporary Music*.  Where I start interesting in different styles of
-music funk, fusion, jazz, rock and orchestral music. After finishing
-school I decided that I wanted to continue studies with music. So I
-started studying at *The State Higher School of Vocational Education*,
-and graduated with a musician teacher title. After that I decided to
-move to Kraków where I started studying at *Jagiellonian
-University*. At this time I studied *Cultural Management*.  In the
-course of studies I played in many bands and gained experience as
-professional drummer, side man, solo artist. At this stage I also had
-a handful of my own private drum students and the more students I had,
-the more I began to love teaching just as much as playing. During all
-this things I have not forgotten to practise and learn form others
-drummers and participate in workshops with drummers like Aron Spears,
-Benny Greb, Harry Tanschek, Atma Anur, Piotr Biskupski, Tomasz
-Łosowski. And take part in jazz workshops *The International Summer
-Jazz Academy*.
+I graduated *Krakow School of Jazz and Contemporary Music* where I received formal training in harmony, theory, arranging, and ear training. The classes I took really helped me develop my actual drumming skills. I also graduated *The State Higher School of Vocational Education* and finish with a musician teacher title. After that I started studying at *Jagiellonian University* at this time I studied *Cultural Management* and graduated with a Master Degree. Regulary I get involved in jazz workshops such as The International Summer Jazz Academy. 
 
-### Associated acts
+### Career Highlights & Musical Projects
 
-Since then I have been working on various original projects, touring
-the country with many different artists. I have played with Damian
-Kurasz, Janusz Muniak, Justlanded (New York), Notorius Rat, Fat Beats,
-Funk Me, BB Band Bartosz Bocheński Band, Dollars Brothers.
+I have been working on various original projects and touring with many different artists. Justlanded (USA), Ruby and the Elevators (UK), Atomic (Worldwide), Janusz Muniak (PL).
 
-### Infuencers
+Festivals: <br>Victorious Festival UK <br>Upton Blues Festival UK <br>Sun and Moon Festival UK<br>
 
-Drummers who had the greatest influence on me are Chris Coleman, Benny
-Greb, Dave Weckl, Tommy Igoe, Tony Royster Jr, Vinnie Colaiuta. I also
-film and record drum covers for YouTube and this website.
+As a session drummer I work for Carnival Corporation British-American, currently the world's largest travel leisure company. And also took apart in TV production Must by the Music.
+
+Besides playing music I'm a very active drum teacher. I inspiring young drummers to develop musicality, creativity and technique. So far I have worked with:
+
+Drum Mode School<br> Sussex Music Academy <br>Drumsetpro School
