@@ -26,7 +26,7 @@ title:  Gear
 
 ## Eletronic Drums Set
 
-<img class="photo" style="float:right;" src="image/zestaw.jpg" />
+<img class="photo" style="float:right;" src="image/rolandtd25visual.jpg" />
 #### Roland TD-25KV:
 
 * Drum Sound Module TD-25
