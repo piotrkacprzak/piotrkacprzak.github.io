@@ -5,7 +5,7 @@ title:  Biography
 
 ## Biography
 
-<img class="photo" style="float:right;" src="image/piotr_1.jpg" /> My name is Piotr. I am a professional drummer, tutor, programmer, transcriber based in West Sussex UK. My passion for music began at a very young age. Whenever I heard music, live or on records, drums were always the instruments that stuck out to me. I would spend most of my time banging on everything in my house. When I got my first drum set I played and practiced as much as I could. As soon as I got home from school, I didn’t even do my homework. I just go on the drums and played until I can.
+<img class="photo" style="float:right;" src="image/piotr_1.jpg" /> My name is Piotr. I am a professional drummer, based in West Sussex UK. My passion for music began at a very young age. Whenever I heard music, live or on records, drums were always the instruments that stuck out to me. I would spend most of my time banging on everything in my house. When I got my first drum set I played and practiced as much as I could. As soon as I got home from school, I didn’t even do my homework. I just go on the drums and played until I can.
 
 I graduated *Krakow School of Jazz and Contemporary Music* where I received formal training in harmony, theory, arranging, and ear training. The classes I took really helped me develop my actual drumming skills. I also graduated *The State Higher School of Vocational Education* and finish with a musician teacher title. After that I started studying at *Jagiellonian University* at this time I studied *Cultural Management* and graduated with a Master Degree. Regulary I get involved in jazz workshops such as The International Summer Jazz Academy. 
 
