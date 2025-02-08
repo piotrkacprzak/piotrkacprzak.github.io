@@ -7,5 +7,5 @@ categories: news
 Hi everyone. Check out my new drum cover and trancription on YouTube. 
 
 <div class="videowrapper">
-<iframe src="//www.youtube.com/watch?v=FXSsF_j4zyE" frameborder="0" allowfullscreen></iframe>
+<iframe src="//www.youtube.com/embed/FXSsF_j4zyE" frameborder="0" allowfullscreen></iframe>
 </div>
