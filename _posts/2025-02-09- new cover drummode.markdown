@@ -14,5 +14,5 @@ Hit the link, give it a watch, and let me know what you think in the comments! �
 <iframe src="//www.youtube.com/embed/iypAY3XHEtw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Don’t forget to like, share, and subscribe if you dig it! Thanks for the support! 🙌💥 #DrumCover #MusicLover #KeepOnGrooving 
+Don’t forget to like, share, and subscribe if you dig it! Thanks for the support! 🙌💥 
 
