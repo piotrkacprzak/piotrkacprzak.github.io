@@ -7,7 +7,7 @@ title:  Contact
 
 ### Piotr Kacprzak
 
-mail: **kacprzakpiotrek@gmail.com**
+mail: **drummodeschool@gmail.com**
 
 phone: **+44 7731 580974**
 
